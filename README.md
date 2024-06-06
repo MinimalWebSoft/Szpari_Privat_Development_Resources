@@ -1,0 +1,2 @@
+# Szpari_Privat_Development_Resources
+Cucc
