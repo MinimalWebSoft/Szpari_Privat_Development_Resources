@@ -1,0 +1,43 @@
+ötletek: 
+    - a logó amikor megyünk lefele összeshrinkkel ( videotonnál )
+    - meccs részek és összefoglalók legyenek az oldalon
+    - a tabellában csak olyanokat jelenítünk meg amely csapatok körülötte vannak ( 4 - 5 darab )
+    - meccsrészleteket
+    - össszeállítiás legyen benne az adott meccsre ( -> onnan legyen hivatkozás az adott játékosra
+            ha rákattintunk )
+    - felállásokat mecsinálni meccsek előttre
+    - futószalag becsuszó komponens ( paskon )
+    - mlsz tévéről legyenek összefoglalások
+    - támogatók jelenjenek meg
+    - navbar lehet olyan mint a paks akadémián
+    - képgalléria, legyen sok kép faszán megcsinálni
+    - naptár legyen ( mikor milyen meccs mikor van, mikor vannak edzések satöbbi ) => csak ne legyen csúnya
+    - legjobb oldal a videoton, ez eldölt :)
+    - Hajrá Spari, annyi kupa legyen amennyi van, amikor feljön az oldal
+    - a logó benyuljon ide oda a komponenseken
+    - partnerek
+    - támogatók
+    - hirlevél legyen benne
+    - ami bekerül instragramra az legyen automatikusan kint az oldalon is
+    - hirek és tudsz visszalapozni a meccsekre, hogy melyik meccsen mi történt dolgok
+    - legyen olyan kép, amelyikre ha rámegyünk, akkor mozog a kép
+    - sparinak legyen történelmi oldala, külön oldalon megnyíilva
+    - miket nyert a spari legyen benne
+    - angol oldal nem kell ( úgy értem, hogy az egész legyen átfogalmazva angolra ) 
+    - győri oldal, tabella része jól néz ki
+    - a honvédban jól néz ki a játékosok lapjai
+    - bozsikarénából faszák az annimácíók
+    - az Ac milan footere jó
+    - juventusba nagyon jó a navbar és a footer
+    - kellesz benne egy beköszönő rész
+    - lesz majd egy negyedik számú aranymez
+    - fcbarcelona a social media dolgok nagyon jók
+    - minden játékosnak ilyen leírás
+    - szülinaposokat felköszönteni
+    - dicsőségtábla legyen
+    - legyenek átmenetek az oldalon, háttérképrekre értem
+    - legyen egy nyitórésze a egésznek : -> Hajrá Spari először, utána a többi
+    - kell a stadionról videó és kép is : 
+            - megjelenő blokkok mi hol van : 
+                - pl vendégbejárat
+                - vip bejárat ( és ha rámész kiirja, hogy mi is az, és pontosan földrajzi képpel, hogyan lehet megközelíteni ) 
